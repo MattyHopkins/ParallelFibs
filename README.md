@@ -30,7 +30,7 @@ Matthew Hopkins
 This project is licensed under the MIT License - see the [license file](./LICENSE) for details
 
 ## Acknowledgments
-Thanks to R.Knott at Surrey University 
-http://www.maths.surrey.ac.uk/hosted-sites/R.Knott/Fibonacci/fibFormula.html#formula
+Thanks to [R.Knott](http://www.maths.surrey.ac.uk/hosted-sites/R.Knott/Fibonacci/fibFormula.html#formula) at Surrey University for the explaination of the formula
+
 
 
