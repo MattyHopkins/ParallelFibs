@@ -27,7 +27,7 @@ Note that the collection could contain arbitary n's they don't need to be contig
 Matthew Hopkins
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [https://github.com/MattyHopkins/ParallelFibs/blob/master/LICENSE](LICENSE.md) file for details
 
 ## Acknowledgments
 Thanks to R.Knott at Surrey University 
